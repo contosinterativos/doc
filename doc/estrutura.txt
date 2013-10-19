@@ -1,0 +1,9 @@
+﻿Estrutura
+
+
+Pg em html 5, que rola verticalmente fluida 
+ou com responsivo adaptável a todas as plataformas
+
+Estilo css3
+
+  
